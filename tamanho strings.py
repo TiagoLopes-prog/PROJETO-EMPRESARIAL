@@ -1,0 +1,6 @@
+texto = input ("escreva uma palavra:")
+texto2 = input("escreva a outra palavra:")
+print(texto2)
+print (texto)
+print (len(texto))
+print(len(texto2))
