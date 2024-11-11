@@ -8,4 +8,4 @@ print("iniciando cadastro...")
 nome,idade = cadastro()
 print ("Cadastro realizado com sucesso: ")
 
-print("Seu nome é ",nome,"E você tem",idade,"anos de idade")
+print("Seu nome é ",nome,"e você tem",idade,"anos de idade")

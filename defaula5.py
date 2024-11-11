@@ -10,5 +10,4 @@ def calcular_pagamento(qtd_horas, valor_hora):
     print(salario)
 x = float(input("Digite a quantidade de horas que voce trabalha por semana: "))
 y = float(input("Digite o quanto voce ganha por hora: "))
-
-calcular_pagamento(40,20)
+calcular_pagamento(x,y)

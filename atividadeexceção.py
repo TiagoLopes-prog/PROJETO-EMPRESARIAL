@@ -12,5 +12,3 @@ except:
 finally:
 
     print("Final do algoritmo")
-    
-print(a)

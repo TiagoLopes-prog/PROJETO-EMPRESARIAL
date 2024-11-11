@@ -17,7 +17,7 @@ except ValueError:
 soma = 0
 
 for i in range(numero1 = 1):
-          soma += i
+    soma += i
 print(soma)
 
 
